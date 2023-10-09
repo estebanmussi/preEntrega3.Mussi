@@ -1,0 +1,48 @@
+/*fotos grilla*/
+
+#grilla{
+    display: grid;
+    background-color: lightblue;
+    margin-bottom: 10px;
+    grid-template-areas: 
+    "foto1 foto2 foto3"
+    "foto4 foto5 foto6";
+    gap: 2px;
+    padding: 5px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+
+}
+
+.foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+    max-width: 100%;
+    height: 55px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.foto1{
+    background-image: url(../images/vs\ mexico.jpg);
+grid-area: foto1;
+}
+.foto2{
+    background-image: url(../images/vs\ polonia.jpg);
+    grid-area: foto2;
+}
+.foto3{
+    background-image: url(../images/dibu\ australia.jpg);
+    grid-area: foto3;
+}
+.foto4{
+    background-image: url(../images/dibu\ holanda.jpg);
+    grid-area: foto4;
+}
+.foto5{
+    background-image: url(../images/messi\ croacia.jpg);
+    grid-area: foto5;
+}
+.foto6{
+    background-image: url(../images/dibu\ final.jpg);
+    grid-area: foto6;
+}

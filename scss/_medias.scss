@@ -1,0 +1,306 @@
+@media(min-width:319px) and (max-width:375px){
+    .seccion-div1-nav{
+        margin-left: 5px;
+    }
+}
+@media(min-width:376px) and (max-width:425px){
+    .titulo{
+        font-size: 30px;
+    }
+    .seccion-div1-nav{
+        margin-left: 5px;
+    }
+    .seccion-div2-img{
+        height: 300px;
+        height: 140px;
+    }  
+}
+@media(min-width:426px) and (max-width:767px){
+    .logo{
+        width: 300px;
+    }
+    .titulo{
+        font-size: 35px;
+    }
+    .seccion-div2-img{
+        height: 350px;
+        height: 180px;
+    }
+    .seccion-div1-nav{
+        height: 180px;
+        li{
+            margin-bottom: 15px;
+            font-size: larger;
+        }
+    }
+    
+    .titulo-fotos{
+        font-size: 22px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 80px;
+    }
+    #carouselExample{
+        margin-top: 50px;
+    }
+}
+@media(min-width:768px) and (max-width:900px){
+    .logo{
+        width: 350px;
+    }
+    .titulo{
+        font-size: 45px;
+    } 
+    .seccion-div1-nav{
+        height: 270px;
+        li{
+            margin-bottom: 25px;
+            font-size: 27px;
+        }
+    }
+    
+    .seccion-div2-img{
+        
+        height: 266px;
+    }
+    .titulo-fotos{
+        font-size: 30px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 130px;
+    }
+    #carouselExample{
+        margin-top: 100px;
+    }
+}
+@media(min-width:901px) and (max-width:1023px){
+    .logo{
+        width: 400px;
+    }
+    .titulo{
+        font-size: 50px;
+    }
+    .seccion-div1-nav{
+        height: 330px;
+        li{
+            margin-bottom: 35px;
+            font-size: 30px;
+        }
+    }
+    
+    .seccion-div2-img{
+        
+        height: 320px;
+    }
+    .titulo-fotos{
+        font-size: 33px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 160px;
+    } 
+    #carouselExample{
+        margin-top: 100px;
+    }
+}
+@media(min-width:1024px) and (max-width:1200px){
+    .logo{
+        width: 450px;
+    }
+    .titulo{
+        font-size: 55px;
+    }
+    .seccion-div1-nav{
+        height: 330px;
+        li{
+            margin-bottom: 45px;
+            font-size: 30px;
+        }
+    }
+    .seccion-div2-img{
+        
+        height: 350px;
+    }
+    .titulo-fotos{
+        font-size: 40px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 180px;
+    }
+    .redes{
+        font-size: 40px;
+    }
+    .icono{
+        height: 20px;
+        width: 20px;
+    }
+    #carouselExample{
+        margin-top: 100px;
+    }
+}
+@media(min-width:1201px) and (max-width:1399px){
+    .logo{
+        width: 500px;
+    }
+    .titulo{
+        font-size: 60px;
+    } 
+    .seccion-div1-nav{
+        height: 380px;
+        li{
+            margin-bottom: 45px;
+            font-size: 35px;
+        }
+    }
+    
+    .seccion-div2-img{
+        
+        height: 400px;
+    }
+    .titulo-fotos{
+        font-size: 45px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 200px;
+    }
+    .redes{
+        font-size: 40px;
+    }
+    .icono{
+        height: 20px;
+        width: 20px;
+    }
+    #carouselExample{
+        margin-top: 100px;
+    }
+}
+@media(min-width:1400px) and (max-width:1700px){
+    .logo{
+        width: 550px;
+    }
+    .titulo{
+        font-size: 65px;
+    }
+    .seccion-div1-nav{
+        height: 430px;
+        li{
+            margin-bottom: 45px;
+            font-size: 40px;
+        }
+    }
+    
+    .seccion-div2-img{
+        
+        height: 450px;
+    }
+    .titulo-fotos{
+        font-size: 52px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 230px;
+    } 
+    .redes{
+        font-size: 40px;
+    }
+    .icono{
+        height: 20px;
+        width: 20px;
+    }
+}
+@media(min-width:1701px) and (max-width:2023px){
+    .logo{
+        width: 700px;
+    }
+    .titulo{
+        font-size: 75px;
+    } 
+    .seccion-div1-nav{
+        height: 500px;
+        li{
+            margin-bottom: 45px;
+            font-size: 50px;
+        }
+    }
+    .seccion-div2-img{
+        
+        height: 500px;
+    }
+    .titulo-fotos{
+        font-size: 60px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 260px;
+    }
+    .redes{
+        font-size: 40px;
+    }
+    .icono{
+        height: 20px;
+        width: 20px;
+    }
+}
+@media(min-width:2024px) and (max-width:2300px){
+    .logo{
+        width: 850px;
+    }
+    .titulo{
+        font-size: 90px;
+    } 
+    .seccion-div1-nav{
+        height: 600px;
+        li{
+            margin-bottom: 45px;
+            font-size: 58px;
+        }
+    }
+    .seccion-div2-img{
+        
+        height: 540px;
+    }
+    .titulo-fotos{
+        font-size: 65px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 300px;
+    }
+    .redes{
+        font-size: 50px;
+    }
+    .icono{
+        height: 25px;
+        width: 25px;
+    }
+
+}
+@media(min-width:2301px) and (max-width:2561px){
+    .logo{
+        width: 950px;
+    }
+    .titulo{
+        font-size: 105px;
+    } 
+    .seccion-div1-nav{
+        height: 700px;
+        li{
+        margin-bottom: 45px;
+        font-size: 70px;
+        }
+    }
+    .seccion-div2-img{
+        
+        height: 650px;
+    }
+    .titulo-fotos{
+        font-size: px;
+    }
+    .foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+        height: 330px;
+    }
+    .redes{
+        font-size: 50px;
+    }
+    .icono{
+        height: 25px;
+        width: 25px;
+    }
+
+}
