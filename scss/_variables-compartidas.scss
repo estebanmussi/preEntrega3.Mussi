@@ -2,9 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
-$color-titulo: blue;
-$color-subtitulo:darkblue;
-$color-footer:darkblue;
+    $color-titulo: blue;
+    $color-subtitulo:darkblue;
+    $color-footer:darkblue;
 h1{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -96,7 +96,16 @@ body{
 /*titulo:momentos destacados*/
 .titulo-fotos{
     background-color: lightblue;
-    padding: 5px;
+    padding: 15px;
     margin-bottom: 7px;
     text-align: center;
+}
+.parrafo{
+    color: $color-subtitulo;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 10px;
 }

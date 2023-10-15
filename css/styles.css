@@ -98,9 +98,19 @@ body {
 /*titulo:momentos destacados*/
 .titulo-fotos {
   background-color: lightblue;
-  padding: 5px;
+  padding: 15px;
   margin-bottom: 7px;
   text-align: center;
+}
+
+.parrafo {
+  color: darkblue;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 10px;
 }
 
 /*fotos grilla*/
